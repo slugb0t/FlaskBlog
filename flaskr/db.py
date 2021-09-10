@@ -2,6 +2,9 @@ import sqlite3
 import click
 from flask import current_app, g
 from flask.cli import with_appcontext
+#g is a special object that is unique for each request
+# use to store data that might be accessed by multiple functions during the request
+
 
 def init_app(app):
     # function to register functions with the application instance

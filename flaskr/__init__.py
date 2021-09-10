@@ -2,14 +2,15 @@ import os
 from flask import Flask
 from . import db
 from . import auth
-from flaskr import db, auth, blog
+from . import blog
 
 # serves two things: it will contain the application factory
 # and it tells Python that the flaskr directory should be treated as a package
-
+# Instead of making a flask instance globally we create it inside a function
 
 def create_app(test_config=None):
     """Create and configure an instance of the Flask application."""
+    # __name__ is the name of the current Python module
     app = Flask(__name__, instance_relative_config=True)
     app.config.from_mapping(
         # a default secret that should be overridden by instance config
@@ -37,5 +38,7 @@ def create_app(test_config=None):
 
     db.init_app(app)
     app.register_blueprint(auth.bp)
+    app.register_blueprint(blog.bp)
+    app.add_url_rule('/', endpoint='index')
 
     return app
