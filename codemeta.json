@@ -1,0 +1,35 @@
+{
+  "name": "FlaskBlog",
+  "@context": "https://w3id.org/codemeta/3.0",
+  "author": [
+    {
+      "affiliation": {
+        "name": "FAIR Data Innovations Hub",
+        "type": "Organization"
+      },
+      "email": "wheresdorian@gmail.com",
+      "familyName": "Portillo",
+      "id": "_:author_1",
+      "givenName": "Dorian",
+      "type": "Person"
+    }
+  ],
+  "codeRepository": "https://github.com/slugb0t/FlaskBlog",
+  "dateCreated": "2021-08-22",
+  "description": "Blog webapp created using Flask (python framework)",
+  "issueTracker": "https://github.com/slugb0t/FlaskBlog/issues",
+  "keywords": [
+    "testdfas"
+  ],
+  "license": "https://spdx.org/licenses/MIT",
+  "operatingSystem": [],
+  "programmingLanguage": [
+    "Python",
+    "HTML",
+    "CSS"
+  ],
+  "relatedLink": [],
+  "runtimePlatform": [],
+  "softwareRequirements": [],
+  "type": "SoftwareSourceCode"
+}
