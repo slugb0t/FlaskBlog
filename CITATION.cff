@@ -1,0 +1,12 @@
+title: asdfasdf
+authors:
+  - given-names: John
+    family-names: Doe
+    email: wdfasd@gmail.com
+    affiliation: UCLA
+cff-version: 1.2.0
+message: If you use this software, please cite it using the metadata from this file.
+type: software
+abstract: dfl;aksjdfd
+keywords:
+  - testsdf
