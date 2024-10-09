@@ -16,7 +16,7 @@
     }
   ],
   "dateCreated": "2024-10-31",
-  "datePublished": "2024-10-31",
+  "datePublished": "2024-10-09",
   "description": "yes",
   "keywords": [
     "test",
@@ -27,5 +27,8 @@
   "relatedLink": [],
   "runtimePlatform": [],
   "softwareRequirements": [],
-  "type": "SoftwareSourceCode"
+  "type": "SoftwareSourceCode",
+  "identifier": "10.5281/zenodo.115920",
+  "version": "3.9",
+  "dateModified": "2024-10-09"
 }
