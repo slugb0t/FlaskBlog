@@ -1,39 +1,28 @@
 {
-  "name": "FlaskBlog",
+  "name": "asdfasdf",
   "@context": "https://w3id.org/codemeta/3.0",
+  "applicationCategory": "Aviation test",
   "author": [
     {
       "affiliation": {
-        "name": "FAIR Data Innovations Hub",
+        "name": "UCLA",
         "type": "Organization"
       },
-      "email": "wheresdorian@gmail.com",
-      "familyName": "Portillo",
+      "email": "wdfasd@gmail.com",
+      "familyName": "Doe",
       "id": "_:author_1",
-      "givenName": "Dorian",
+      "givenName": "John",
       "type": "Person"
     }
   ],
-  "codeRepository": "https://github.com/slugb0t/FlaskBlog",
-  "dateCreated": "2021-08-22",
-  "description": "Blog webapp created using Flask (python framework)",
-  "issueTracker": "https://github.com/slugb0t/FlaskBlog/issues",
+  "description": "dfl;aksjdfd",
   "keywords": [
-    "testdfas"
+    "testsdf"
   ],
-  "license": "https://spdx.org/licenses/MIT",
   "operatingSystem": [],
-  "programmingLanguage": [
-    "Python",
-    "HTML",
-    "CSS"
-  ],
+  "programmingLanguage": [],
   "relatedLink": [],
   "runtimePlatform": [],
   "softwareRequirements": [],
-  "type": "SoftwareSourceCode",
-  "identifier": "10.5281/zenodo.115428",
-  "version": "3.9",
-  "dateModified": "2024-10-09",
-  "datePublished": "2024-10-09"
+  "type": "SoftwareSourceCode"
 }
