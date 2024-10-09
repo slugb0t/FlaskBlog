@@ -14,5 +14,5 @@ license: MIT
 repository-code: https://github.com/slugb0t/FlaskBlog
 identifier: 10.5281/zenodo.114954
 date-released: '2024-10-09'
-version: '3.2'
-doi: 10.5281/zenodo.115394
+version: '3.3'
+doi: 10.5281/zenodo.115396
