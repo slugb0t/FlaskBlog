@@ -1,5 +1,5 @@
 {
-  "name": "asdfasdf",
+  "name": "hello",
   "@context": "https://w3id.org/codemeta/3.0",
   "applicationCategory": "Aviation test",
   "author": [
@@ -8,25 +8,24 @@
         "name": "UCLA",
         "type": "Organization"
       },
-      "email": "wdfasd@gmail.com",
+      "email": "where@gmail.com",
       "familyName": "Doe",
-      "id": "_:author_1",
-      "givenName": "John",
+      "id": "https://voidresume.com",
+      "givenName": "JOHN",
       "type": "Person"
     }
   ],
-  "description": "dfl;aksjdfd",
+  "dateCreated": "2024-10-31",
+  "datePublished": "2024-10-31",
+  "description": "yes",
   "keywords": [
-    "testsdf"
+    "test",
+    "key"
   ],
   "operatingSystem": [],
   "programmingLanguage": [],
   "relatedLink": [],
   "runtimePlatform": [],
   "softwareRequirements": [],
-  "type": "SoftwareSourceCode",
-  "identifier": "10.5281/zenodo.115918",
-  "version": "3.9",
-  "dateModified": "2024-10-09",
-  "datePublished": "2024-10-09"
+  "type": "SoftwareSourceCode"
 }
