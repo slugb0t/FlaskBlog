@@ -1,15 +1,13 @@
-title: asdfasdf
+title: hello
 authors:
-  - given-names: John
+  - given-names: JOHN
     family-names: Doe
-    email: wdfasd@gmail.com
+    email: where@gmail.com
     affiliation: UCLA
 cff-version: 1.2.0
 message: If you use this software, please cite it using the metadata from this file.
 type: software
-abstract: dfl;aksjdfd
+abstract: yes
 keywords:
-  - testsdf
-doi: 10.5281/zenodo.115918
-date-released: '2024-10-09'
-version: '3.9'
+  - test
+  - key
