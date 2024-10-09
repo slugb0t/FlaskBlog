@@ -7,7 +7,10 @@ authors:
 cff-version: 1.2.0
 message: If you use this software, please cite it using the metadata from this file.
 type: software
-abstract: yes
+abstract: 'yes'
 keywords:
   - test
   - key
+doi: 10.5281/zenodo.115920
+date-released: '2024-10-09'
+version: '3.9'
