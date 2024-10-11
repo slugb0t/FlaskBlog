@@ -11,6 +11,6 @@ abstract: 'yes'
 keywords:
   - test
   - key
-doi: 10.5281/zenodo.116849
+doi: 10.5281/zenodo.116851
 date-released: '2024-10-11'
-version: '44444'
+version: '23'
