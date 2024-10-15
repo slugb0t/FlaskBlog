@@ -15,20 +15,64 @@
       "type": "Person"
     }
   ],
-  "dateCreated": "2024-10-31",
-  "datePublished": "2024-10-12",
+  "contributor": [
+    {
+      "email": "wer@gmail.com",
+      "familyName": "DFSD",
+      "id": "_:contributor_1",
+      "givenName": "DORIAN",
+      "type": "Person"
+    }
+  ],
+  "codemeta:continuousIntegration": {
+    "id": "fsdfa"
+  },
+  "codemeta:isSourceCodeOf": {
+    "id": "is source code of"
+  },
+  "codeRepository": "https://google.com",
+  "contIntegration": "fsdfa",
+  "dateCreated": "2024-10-30",
+  "dateModified": "2024-10-11",
+  "datePublished": "2024-10-11",
   "description": "yes",
+  "developmentStatus": "concept",
+  "downloadUrl": "https://reddit.com",
+  "funder": {
+    "name": "funding organization",
+    "type": "Organization"
+  },
+  "funding": "funding code",
+  "identifier": "10.5281/zenodo.117038",
+  "isPartOf": "is part of",
+  "issueTracker": "https://bing.com",
   "keywords": [
     "test",
     "key"
   ],
-  "operatingSystem": [],
-  "programmingLanguage": [],
-  "relatedLink": [],
-  "runtimePlatform": [],
-  "softwareRequirements": [],
-  "type": "SoftwareSourceCode",
-  "identifier": "10.5281/zenodo.13932342",
-  "version": "0.2.1",
-  "dateModified": "2024-10-15"
+  "license": "https://spdx.org/licenses/https://spdx.org/licenses/MIT",
+  "operatingSystem": [
+    "Windows 8",
+    "Windows 8.1",
+    "Windows 10"
+  ],
+  "programmingLanguage": [
+    "Clojure",
+    "C++",
+    "C#"
+  ],
+  "relatedLink": [
+    "related",
+    "links"
+  ],
+  "runtimePlatform": [
+    ".Net"
+  ],
+  "schema:releaseNotes": "stable",
+  "softwareRequirements": [
+    "related",
+    "link"
+  ],
+  "version": "1.1.1.1.1",
+  "type": "SoftwareSourceCode"
 }
