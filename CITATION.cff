@@ -7,10 +7,12 @@ authors:
 cff-version: 1.2.0
 message: If you use this software, please cite it using the metadata from this file.
 type: software
-abstract: 'yes'
+doi: 10.5281/zenodo.117038
+abstract: yes
 keywords:
   - test
   - key
-doi: 10.5281/zenodo.13932342
-date-released: '2024-10-15'
-version: 0.2.1
+license: https://spdx.org/licenses/MIT
+repository-code: https://google.com
+version: 1.1.1.1.1
+date-released: 2024-10-11
