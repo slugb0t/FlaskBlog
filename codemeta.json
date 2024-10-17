@@ -28,7 +28,8 @@
   "runtimePlatform": [],
   "softwareRequirements": [],
   "type": "SoftwareSourceCode",
-  "identifier": "10.5281/zenodo.13932342",
-  "version": "0.2.1",
-  "dateModified": "2024-10-15"
+  "identifier": "10.5281/zenodo.13942926",
+  "version": "0.1.1",
+  "dateModified": "2024-10-17",
+  "license": "https://spdx.org/licenses/MIT"
 }
